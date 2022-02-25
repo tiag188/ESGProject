@@ -12,7 +12,5 @@ O layout desenvolvido deve abordar a tela de login e a página principal do apli
 
 40% => Desenvolvimento correto do layout utilizando um dos gerenciadores de layout abordados no Capítulo 06 – Layout Mais Complexos.
 30% => Desenvolver um layout condizente com a proposta indicada no Capítulo 01 – A Contratação.
-
 15% => Aplicação dos conceitos de Design.
-
 15% => Aplicação dos conceitos de UX.
